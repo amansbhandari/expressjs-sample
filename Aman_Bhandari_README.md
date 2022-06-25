@@ -1,6 +1,6 @@
 ## Heruko Deployed URl
 
-https://csci5709-tutorial4-aman.herokuapp.com/
+https://tutorial5-aman.herokuapp.com/
 
 ## GitLab Repository URl
 
