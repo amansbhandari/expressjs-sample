@@ -1,0 +1,23 @@
+.Grid {
+  width: 40%;
+  /* height: 90%; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 20px;
+  box-shadow: 1px 2px 10px #157380;
+  padding: 1em;
+}
+
+.Box {
+  padding: 20px 60px 27px 20px;
+}
+
+.textfield {
+  width: 100%;
+}
+
+.Button {
+  width: 100%;
+}
